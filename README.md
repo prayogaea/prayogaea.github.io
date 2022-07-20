@@ -10,7 +10,7 @@
 - Status: Not married yet
 - Address:
     - Village: Kuken
-    - Districts: Ambatkwi
+    - Subdistrict: Ambatkwi
     - Regency: Boven Digoel
     - Province: Papua
     - Country: Indonesia
