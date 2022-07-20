@@ -24,6 +24,10 @@
 - Non Formal Education:
     - Course: [NEC Computer Malang](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/9732791E-59C1-46C6-93F3-AE780992FF27) (June 2020 - August 2020)
 
+- Skill:
+    - Programming
+    - Desain
+
 - Work Experience:
     - [IT Consultant for Boven Digoel Regency Government, Papua Province](https://www.bovendigoelkab.go.id/) (June 2021 - November 2021)
 
