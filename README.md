@@ -16,7 +16,7 @@
     - Country: Indonesia
 
 - Formal Education:
-    - Kindergarten School: [TK Dharma Wanita Bulurejo](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/7fb60f13-3858-49c1-b8fb-d300af90656b)
+    - Kindergarten School: [TK Dharma Wanita Bulurejo](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/7fb60f13-3858-49c1-b8fb-d300af90656b) (2006-2008)
     - Public Alementary School: [SDN Bulurejo 01](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/b0d37db7-8c18-e111-b58a-998f7c3bc308) (2008 - 2014)
     - Junior High School: [SMPN 01 Tempursari](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/308ee5b9-8c18-e111-9191-315e8257a0f8) (2014 - 2017)
     - Vocational High School: [SMKS Karya Bhakti Tirtoyudo](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/2a11a6b2-8c14-4a21-9fce-c122f596ed75) (2017 - 2020)
