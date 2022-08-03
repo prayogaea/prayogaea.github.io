@@ -25,8 +25,8 @@
     - Course: [NEC Computer Malang](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/9732791E-59C1-46C6-93F3-AE780992FF27) (June 2020 - August 2020)
 
 - Skill:
-    - Programming
-    - Desain
+    - [Programming](https://id.wikipedia.org/wiki/Pemrograman)
+    - [Design](https://id.wikipedia.org/wiki/Desain)
 
 - Work Experience:
     - [IT Consultant for Boven Digoel Regency Government, Papua Province](https://www.bovendigoelkab.go.id/) (June 2021 - November 2021)
@@ -39,5 +39,4 @@
     - Instagram: [prayogaea](https://instagram.com/prayogaea)
     - Facebook: [fb.prayogaea](https://facebook.com/fb.prayogaea)
     - Twitter: [_prayogaea](https://twitter.com/_prayogaea)
-    - Pinterest: [prayogaea](https://id.pinterest.com/prayogaea)
     - Codepan: [prayogaea](https://codepen.io/prayogaea)
