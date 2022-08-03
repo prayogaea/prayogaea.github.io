@@ -40,4 +40,4 @@
     - Facebook: [fb.prayogaea](https://facebook.com/fb.prayogaea)
     - Twitter: [_prayogaea](https://twitter.com/_prayogaea)
     - Pinterest: [prayogaea](https://id.pinterest.com/prayogaea)
-    - Codepan: [_prayogaea](https://codepen.io/_prayogaea)
+    - Codepan: [prayogaea](https://codepen.io/prayogaea)
