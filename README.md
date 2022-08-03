@@ -26,7 +26,11 @@
 
 - Skill:
     - [Programming](https://id.wikipedia.org/wiki/Pemrograman)
+        - Fullstack [JavaScript](https://id.wikipedia.org/wiki/JavaScript)
     - [Design](https://id.wikipedia.org/wiki/Desain)
+        - [CorelDraw](https://id.wikipedia.org/wiki/Corel)
+        - [Adobe Photoshop](https://id.wikipedia.org/wiki/Adobe_Photoshop)
+        - [Adobe Illustrator](https://id.wikipedia.org/wiki/Adobe_Illustrator)
 
 - Work Experience:
     - [IT Consultant for Boven Digoel Regency Government, Papua Province](https://www.bovendigoelkab.go.id/) (June 2021 - November 2021)
