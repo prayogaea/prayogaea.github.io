@@ -27,7 +27,7 @@
 - Skill:
     - [Programming](https://id.wikipedia.org/wiki/Pemrograman)
         - [JavaScript](https://id.wikipedia.org/wiki/JavaScript)
-        - [PHP:Hypertext Preprocessor](https://id.wikipedia.org/wiki/PHP)
+        - [PHP](https://id.wikipedia.org/wiki/PHP)
     - [Design](https://id.wikipedia.org/wiki/Desain)
         - [CorelDraw](https://id.wikipedia.org/wiki/Corel)
         - [Adobe Photoshop](https://id.wikipedia.org/wiki/Adobe_Photoshop)
