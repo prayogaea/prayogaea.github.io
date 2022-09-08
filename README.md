@@ -25,10 +25,10 @@
     - Course: [NEC Computer Malang](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/9732791E-59C1-46C6-93F3-AE780992FF27) (June 2020 - August 2020)
 
 - Skill:
-    - [Programming](https://id.wikipedia.org/wiki/Pemrograman)
+    - [Programming](https://id.wikipedia.org/wiki/Pemrograman):
         - [JavaScript](https://id.wikipedia.org/wiki/JavaScript)
         - [PHP](https://id.wikipedia.org/wiki/PHP)
-    - [Design](https://id.wikipedia.org/wiki/Desain)
+    - [Design](https://id.wikipedia.org/wiki/Desain):
         - [CorelDraw](https://id.wikipedia.org/wiki/Corel)
         - [Adobe Photoshop](https://id.wikipedia.org/wiki/Adobe_Photoshop)
         - [Adobe Illustrator](https://id.wikipedia.org/wiki/Adobe_Illustrator)
@@ -44,4 +44,3 @@
     - Instagram: [prayogaea](https://instagram.com/prayogaea)
     - Facebook: [fb.prayogaea](https://facebook.com/fb.prayogaea)
     - Twitter: [_prayogaea](https://twitter.com/_prayogaea)
-    - Codepan: [prayogaea](https://codepen.io/prayogaea)
