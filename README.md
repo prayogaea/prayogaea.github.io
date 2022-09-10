@@ -1,46 +1,73 @@
-<img src="https://avatars.githubusercontent.com/u/102222827?v=4" alt="Google Cloud logo" title="Google Cloud" align="right" height="250" width="250"/>
+<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2021/07/Orbit-Bootstrap-Resume-CV-Template-for-Developers.png" alt="Bootstrap 5 Resume/CV Template for Developers" /></a>
 
-# Curriculum Vitae
-- Full Name: Prayoga Eka Ardiansyah
-- Place and date of birth: Lumajang, 22 Juni 2001
-- Gender: Male
-- Height: 172 cm
-- Weight: 65 kg
-- Religion: Islam
-- Status: Not married yet
-- Address:
-    - Village: Kuken
-    - Subdistrict: Ambatkwi
-    - Regency: Boven Digoel
-    - Province: Papua
-    - Country: Indonesia
+## Theme Details & Demo
 
-- Formal Education:
-    - Kindergarten School: [TK Dharma Wanita Bulurejo](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/7fb60f13-3858-49c1-b8fb-d300af90656b) (2006-2008)
-    - Public Alementary School: [SDN Bulurejo 01](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/b0d37db7-8c18-e111-b58a-998f7c3bc308) (2008 - 2014)
-    - Junior High School: [SMPN 01 Tempursari](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/308ee5b9-8c18-e111-9191-315e8257a0f8) (2014 - 2017)
-    - Vocational High School: [SMKS Karya Bhakti Tirtoyudo](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/2a11a6b2-8c14-4a21-9fce-c122f596ed75) (2017 - 2020)
+**Demo:** https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/
 
-- Non Formal Education:
-    - Course: [NEC Computer Malang](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/9732791E-59C1-46C6-93F3-AE780992FF27) (June 2020 - August 2020)
+Orbit is a free Bootstrap 5 resume/CV template designed for developers. Looking to **impress your potential employer**? Get this template and you can **send an online resume/CV** instead of a word/pdf attachment. You can **easily make different versions of your online resume/CV** to tailor for different job positions too. 
 
-- Skill:
-    - [Programming](https://id.wikipedia.org/wiki/Pemrograman):
-        - [JavaScript](https://id.wikipedia.org/wiki/JavaScript)
-        - [PHP](https://id.wikipedia.org/wiki/PHP)
-    - [Design](https://id.wikipedia.org/wiki/Desain):
-        - [CorelDraw](https://id.wikipedia.org/wiki/Corel)
-        - [Adobe Photoshop](https://id.wikipedia.org/wiki/Adobe_Photoshop)
-        - [Adobe Illustrator](https://id.wikipedia.org/wiki/Adobe_Illustrator)
+The template comes with **6 colour schemes**. The source SCSS files are included so it’s quick and easy to change the styling and colour scheme.
 
-- Work Experience:
-    - [IT Consultant for Boven Digoel Regency Government, Papua Province](https://www.bovendigoelkab.go.id/) (June 2021 - November 2021)
+**Want to have a printable version?**
+We’ve released a [free Sketch template](https://themes.3rdwavemedia.com/resources/sketch-template/orbit-sketch-sketch-resume-template-for-developers/) for this theme. [Download Now](https://themes.3rdwavemedia.com/resources/sketch-template/orbit-sketch-sketch-resume-template-for-developers/)
 
-- Contacts and Social Media:
-    - Telephone: [+6282244533455](tel:+6282244533455)
-    - WhatsApp: [+6282244533455](https://wa.me/6282244533455)
-    - Gmail: [prayogaekaardiansyah@gmail.com](mailto:prayogaekaardiansyah@gmail.com)
-    - Github: [prayogaea](https://github.com/prayogaea)
-    - Instagram: [prayogaea](https://instagram.com/prayogaea)
-    - Facebook: [fb.prayogaea](https://facebook.com/fb.prayogaea)
-    - Twitter: [_prayogaea](https://twitter.com/_prayogaea)
+<a href="https://themes.3rdwavemedia.com/resources/sketch-template/orbit-sketch-sketch-resume-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/12/orbit-theme-sketch-template-promo.png" alt="Sketch Resume Template for Developers" /></a>
+
+
+## Author & License
+
+This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE as long as you **keep the footer attribution link**. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
+
+If you'd like to **use the template without the attribution link**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/)
+
+#### Follow Xiaoying
+
+[Twitter](https://twitter.com/3rdwave_themes)
+
+[Facebook](https://www.facebook.com/3rdwavethemes/)
+
+[Dribbble](https://dribbble.com/Xiaoying)
+
+[Medium](https://medium.com/@3rdwave_themes)
+
+[Linkedin](https://uk.linkedin.com/in/xiaoying)
+
+
+## Latest Version
+**Bootstrap v2.0** - 2022-06-15
+
+[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/?target=changelog)
+
+## Colour Schemes
+
+#### Colour 1 (orbit-1.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-1.jpg" width="300" alt="Orbit color 1" />
+
+#### Colour 2 (orbit-2.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-2.jpg" width="300" alt="Orbit color 2" />
+
+#### Colour 3 (orbit-3.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-3.jpg" width="300" alt="Orbit color 3" />
+
+#### Colour 4 (orbit-4.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-4.jpg" width="300" alt="Orbit color 4" />
+
+#### Colour 5 (orbit-5.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-5.jpg" width="300" alt="Orbit color 5" />
+
+#### Colour 6 (orbit-6.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-6.jpg" width="300" alt="Orbit color 6" />
+
+## Features
+
+-  Fully Responsive
+-  HTML5 + CSS3
+-  Built on Bootstrap 5
+-  **SCSS** source files included
+-  6 Colour Schemes
+-  1000+ FontAwesome 5 icons
+-  Compatible with all modern browsers
+
+## Credits
+- [Bootstrap](https://getbootstrap.com/)
+- [FontAwesome](https://fontawesome.com/)
