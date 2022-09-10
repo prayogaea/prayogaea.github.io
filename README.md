@@ -1,2 +1,2 @@
-- Github Pages: [https://prayogaea.github.io](prayogaea.github.io)
+- Github Pages: [prayogaea.github.io](https://prayogaea.github.io)
 - Vercel: []()
