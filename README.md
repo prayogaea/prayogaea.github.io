@@ -1,2 +1,2 @@
 - Github Pages: [prayogaea.github.io](https://prayogaea.github.io)
-- Vercel: []()
+- Production Deployment: [prayogaea.vercel.app](https://prayogaea.vercel.app)
